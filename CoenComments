@@ -1,0 +1,8 @@
+"""
+I am wondering if there is a reason you chose the coefficients for the Baumgarte stabilization?
+
+When I solved this problem on paper, I treated the bar position as being x2-x1. I do not know if I was wrong or not.
+
+I wonder what would happen if you used RK4 rather than Rodas4
+
+"""
